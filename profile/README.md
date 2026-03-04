@@ -4,6 +4,8 @@ StacLabs is an open-source incubator and community hub dedicated to advancing th
 
 ## Projects
 
-**sfeos-tools**: CLI providing tools for working with stac-fastapi-elasticsearch-opensearch (SFEOS)
+| Project | Version | Description |
+| ------- | ------- | ----------- |
+| [**sfeos-tools**](https://github.com/StacLabs/sfeos-tools) | ![PyPI version](https://img.shields.io/pypi/v/sfeos-tools?style=flat) | CLI providing tools for working with stac-fastapi-elasticsearch-opensearch (SFEOS) |
 
 
