@@ -8,7 +8,11 @@ StacLabs is an open-source incubator and community hub dedicated to advancing th
 
 | Project | Category | Version | Description |
 | ------- | -------- | ------- | ----------- |
+|||||
 | [**sfeos-tools**](https://github.com/StacLabs/sfeos-tools) | SFEOS | ![PyPI version](https://img.shields.io/pypi/v/sfeos-tools?style=flat) | CLI providing tools for working with stac-fastapi-elasticsearch-opensearch (SFEOS). |
+|||||
 | [**multi-tenant-catalogs**](https://github.com/StacLabs/multi-tenant-catalogs) | STAC API Extension | v1.0.0-beta.4 | STAC API Extension to support Multi-Catalog hierarchies via a dedicated `/catalogs` endpoint. (Recursive Tree architecture). |
 | [**collection-search-large-payloads**](https://github.com/StacLabs/collection-search-large-payloads) | STAC API Extension | v1.0.0-beta.1 | STAC API Extension providing a dedicated `/collections-search` endpoint for GET and POST search requests. | 
+| [**skos-registry**](https://github.com/StacLabs/skos-registry) | STAC API Extension | v1.0.0-beta.1 | This extension defines a standard mechanism to expose SKOS (Simple Knowledge Organization System) hierarchies as navigable Virtual Catalogs. | 
+|||||
 | [**stac-api-load-testing**](https://github.com/StacLabs/stac-api-load-testing) | STAC API Tool | v0.2.0 | A load testing tool for STAC API backends. |
