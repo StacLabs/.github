@@ -15,4 +15,6 @@ StacLabs is an open-source incubator and community hub dedicated to advancing th
 | [**collection-search-large-payloads**](https://github.com/StacLabs/collection-search-large-payloads) | STAC API Extension | v1.0.0-beta.1 | STAC API Extension providing a dedicated `/collections-search` endpoint for GET and POST search requests. | 
 | [**skos-registry**](https://github.com/StacLabs/skos-registry) | STAC API Extension | v1.0.0-beta.1 | This extension defines a standard mechanism to expose SKOS (Simple Knowledge Organization System) hierarchies. | 
 |||||
-| [**stac-api-load-testing**](https://github.com/StacLabs/stac-api-load-testing) | STAC API Tool | v0.2.0 | Taurus and Locust load testing tools for stac-api backends. |
+| [**stac-api-load-testing**](https://github.com/StacLabs/stac-api-load-testing) | STAC API Tool | ![PyPI version](https://img.shields.io/pypi/v/stac-api-load-testing?style=flat) | Taurus and Locust load testing tools for stac-api backends. |
+|||||
+| [**stac-fastapi-catalogs-extension**](https://github.com/StacLabs/stac-fastapi-catalogs-extension) | STAC-FastAPI Extension | ![PyPI version](https://img.shields.io/pypi/v/stac-fastapi-catalogs-extension?style=flat) | STAC FastAPI extension for multi-tenant, recursive catalog hierarchies.|
