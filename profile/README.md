@@ -18,3 +18,12 @@ StacLabs is an open-source incubator and community hub dedicated to advancing th
 | [**stac-api-load-testing**](https://github.com/StacLabs/stac-api-load-testing) | STAC API Tool | ![PyPI version](https://img.shields.io/pypi/v/stac-api-load-testing?style=flat) | Taurus and Locust load testing tools for stac-api backends. |
 |||||
 | [**stac-fastapi-catalogs-extension**](https://github.com/StacLabs/stac-fastapi-catalogs-extension) | STAC-FastAPI Extension | ![PyPI version](https://img.shields.io/pypi/v/stac-fastapi-catalogs-extension?style=flat) | STAC FastAPI extension for multi-tenant, recursive catalog hierarchies.|
+
+## Sponsors & Supporters
+
+The following organizations have contributed time and/or funding to support the development of this project:
+
+<p align="left">
+  <a href="https://healy-hyperspatial.github.io/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/hh-logo-blue.png" alt="Healy Hyperspatial" height="100" hspace="20"></a>
+  <a href="https://cloudferro.com/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/cloudferro-logo.png" alt="CloudFerro" height="105" hspace="20"></a>
+</p>
