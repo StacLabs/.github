@@ -24,7 +24,7 @@ StacLabs is an open-source incubator and community hub dedicated to advancing th
 
 ## Sponsors & Supporters
 
-The following organizations have contributed time and/or funding to support the development of some of these projects:
+The following organizations have contributed time and/or funding to support the development of these projects:
 
 <p align="left">
   <a href="https://healy-hyperspatial.github.io/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/hh-logo-blue.png" alt="Healy Hyperspatial" height="100" hspace="20"></a>
