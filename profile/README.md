@@ -24,11 +24,12 @@ StacLabs is an open-source incubator and community hub dedicated to advancing th
 | [**gostac-validator**](https://github.com/StacLabs/gostac-validator) | STAC Validator | ![GitHub Release](https://img.shields.io/github/v/release/StacLabs/gostac-validator?style=flat&color=orange&label=) | ![GitHub Repo stars](https://img.shields.io/github/stars/StacLabs/gostac-validator?style=flat&label=) | Enterprise-grade, ultra-fast JSON Schema validator for STAC items and collections. Written in Golang. |
 ||||||
 
-## Sponsors & Supporters
+### Sponsors & Supporters
 
 The following organizations have contributed time and/or funding to support the development of these projects:
 
 <p align="left">
-  <a href="https://healy-hyperspatial.github.io/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/hh-logo-blue.png" alt="Healy Hyperspatial" height="100" hspace="20"></a>
-  <a href="https://cloudferro.com/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/cloudferro-logo.png" alt="CloudFerro" height="105" hspace="20"></a>
+  <a href="https://healy-hyperspatial.github.io/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/hh-logo-blue.png" alt="Healy Hyperspatial" height="90" hspace="15"></a>
+  <a href="https://cloudferro.com/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/cloudferro-logo.png" alt="CloudFerro" height="100" hspace="15"></a>
+  <a href="https://radiant.earth/"><img src="https://github.com/stac-utils/stac-check/blob/main/assets/radiant-earth.webp?raw=true" alt="Radiant Earth Foundation" height="90" hspace="15"></a>
 </p>
