@@ -32,4 +32,6 @@ The following organizations have contributed time and/or funding to support the 
   <a href="https://healy-hyperspatial.github.io/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/hh-logo-blue.png" alt="Healy Hyperspatial" height="90" hspace="15"></a>
   <a href="https://cloudferro.com/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/cloudferro-logo.png" alt="CloudFerro" height="100" hspace="15"></a>
   <a href="https://radiant.earth/"><img src="https://github.com/stac-utils/stac-check/blob/main/assets/radiant-earth.webp?raw=true" alt="Radiant Earth Foundation" height="90" hspace="15"></a>
+    <a href="https://atomicmaps.io/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/am-logo-black.png" alt="Atomic Maps" height="90" hspace="20"></a>
+  <a href="https://remotesensing.vito.be/"><img src="https://raw.githubusercontent.com/stac-utils/stac-fastapi-elasticsearch-opensearch/refs/heads/main/assets/VITO.png" alt="VITO Remote Sensing" height="90" hspace="20"></a>
 </p>
