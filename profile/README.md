@@ -24,6 +24,8 @@ StacLabs is an open-source incubator and community hub dedicated to advancing th
 | [**stac-validator**](https://github.com/stac-utils/stac-validator) | STAC Validator | ![PyPI version](https://img.shields.io/pypi/v/stac-valid?style=flat&color=orange&label=) | ![GitHub Repo stars](https://img.shields.io/github/stars/stac-utils/stac-validator?style=flat&label=) | [![Downloads](https://static.pepy.tech/personalized-badge/stac-validator?period=total&units=NONE&left_color=GREY&right_color=BLUE&left_text=downloads)](https://pepy.tech/projects/stac-validator) | Full-featured, Python-based JSON Schema validator for STAC items and collections. |
 | [**gostac-validator**](https://github.com/StacLabs/gostac-validator) | STAC Validator | ![GitHub Release](https://img.shields.io/github/v/release/StacLabs/gostac-validator?style=flat&color=orange&label=) | ![GitHub Repo stars](https://img.shields.io/github/stars/StacLabs/gostac-validator?style=flat&label=) | - | Enterprise-grade, ultra-fast JSON Schema validator for STAC items and collections. Written in Golang. |
 ||||||
+| [**sfeos-rs**](https://github.com/jonhealy1/sfeos-rs) | Experimental | - | - | - | A STAC API Opensearch server built with Rust |
+||||||
 
 ### Sponsors & Supporters
 
